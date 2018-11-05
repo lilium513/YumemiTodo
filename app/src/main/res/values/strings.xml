@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YumemiTodo</string>
+    <string name="input_hint">input your Todo</string>
+    <string name="add_todo">add</string>
+</resources>
