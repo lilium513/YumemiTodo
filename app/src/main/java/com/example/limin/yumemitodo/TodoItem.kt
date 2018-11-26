@@ -1,6 +1,8 @@
 package com.example.limin.yumemitodo
 
-class TodoItem(name: String) {
+import java.io.Serializable
+
+class TodoItem(name: String):Serializable{
     var name: String = name
     var state:TaskState = TaskState.NotDone
 }
